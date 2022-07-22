@@ -3,8 +3,8 @@ RENCANA BELAJAR PROGRAMMING
 - Belajar Mandiri
   * HTML
   * CSS
-  * Golang
-  * Phpmyadmin
+  * SQL
+  * PHP
 - Ikut Pelatihan
-  ^ RevoU
-  ^ Progate
+  *DQLab
+  *Kominfo
