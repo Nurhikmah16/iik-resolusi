@@ -3,4 +3,5 @@ RENCANA BELAJAR PROGRAMMING
 - Belajar Mandiri
   * HTML
   * CSS
+  * SQL
 - Ikut Pelatihan
