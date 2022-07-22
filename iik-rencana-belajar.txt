@@ -4,6 +4,7 @@ RENCANA BELAJAR PROGRAMMING
   * HTML
   * CSS
   * SQL
+  * PHP
 - Ikut Pelatihan
   *DQLab
   *Kominfo
