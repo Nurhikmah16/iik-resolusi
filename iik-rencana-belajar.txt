@@ -5,3 +5,5 @@ RENCANA BELAJAR PROGRAMMING
   * CSS
   * SQL
 - Ikut Pelatihan
+  *DQLab
+  *Kominfo
