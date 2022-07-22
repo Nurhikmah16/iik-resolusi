@@ -1,4 +1,6 @@
 RENCANA BELAJAR PROGRAMMING
 - Niat
 - Belajar Mandiri
+  * HTML
+  * CSS
 - Ikut Pelatihan
